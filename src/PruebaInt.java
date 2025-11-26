@@ -8,5 +8,7 @@ public class PruebaInt {
         System.out.println(resultado);
 
         int c = 4;
+
+        int d = 5;
     }
 }
